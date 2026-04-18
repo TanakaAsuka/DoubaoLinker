@@ -1,0 +1,24 @@
+# Ignore everything by default
+*
+
+# Allow this file
+!.gitignore
+
+# ===== PC Project =====
+!DoubaoLinkerPC/
+!DoubaoLinkerPC/Assets/
+!DoubaoLinkerPC/Assets/**
+!DoubaoLinkerPC/Packages/
+!DoubaoLinkerPC/Packages/**
+!DoubaoLinkerPC/ProjectSettings/
+!DoubaoLinkerPC/ProjectSettings/**
+
+# ===== Mobile Project =====
+!DoubaoLinkerMobile/
+!DoubaoLinkerMobile/DoubaoLinkerMobile/
+!DoubaoLinkerMobile/DoubaoLinkerMobile/Assets/
+!DoubaoLinkerMobile/DoubaoLinkerMobile/Assets/**
+!DoubaoLinkerMobile/DoubaoLinkerMobile/Packages/
+!DoubaoLinkerMobile/DoubaoLinkerMobile/Packages/**
+!DoubaoLinkerMobile/DoubaoLinkerMobile/ProjectSettings/
+!DoubaoLinkerMobile/DoubaoLinkerMobile/ProjectSettings/**
