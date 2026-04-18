@@ -3,6 +3,7 @@
 
 # Allow this file
 !.gitignore
+!.gitattributes
 
 # ===== PC Project =====
 !DoubaoLinkerPC/
