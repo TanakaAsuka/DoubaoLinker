@@ -1,3 +1,5 @@
+用途：豆包输入法手机端语音识别文本发送到电脑任意输入框。
+
 第一步，打开Windows端的服务器，看到下面的图标，说明启动成功。然后的话这里的IP有很多个，一般是选这个192.168这个。
 <img width="622" height="243" alt="image" src="https://github.com/user-attachments/assets/99165b23-0c9c-4550-be17-100be5e4a3eb" />
 
@@ -6,3 +8,6 @@
 
 第二步，打开手机APP，然后输入服务器地址。点击连接，然后就可以了。
 <img width="577" height="1258" alt="image" src="https://github.com/user-attachments/assets/e0d73f2f-def0-44dc-b260-43c564501671" />
+
+
+之后就可以点击输入框弹出豆包输入法进行语音输入，完成后发送，在PC端任何有焦点的输入框都会获取文字
